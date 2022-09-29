@@ -23,7 +23,7 @@ timezone: America/New_York
 
 title: Chase Eller                          # the main title
 
-tagline: I code it, Ruby breaks it.   # it will display as the sub-title
+tagline: I code it, Ruby breaks it, Link and Custom try and talk me down.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A place to turn out data and things for my mind thought stuffs.
