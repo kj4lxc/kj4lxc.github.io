@@ -21,12 +21,12 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Chase Eller                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: I code it, Ruby breaks it.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A place to turn out data and things for my mind thought stuffs.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://kj4lxc.github.io'
@@ -160,7 +160,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: https://pbs.twimg.com/profile_images/1530883946443157504/SS47JSOQ_400x400.jpg
+      path: assets/img/favicons
     values:
       swcache: true
   - scope:
