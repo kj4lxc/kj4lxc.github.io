@@ -1,6 +1,0 @@
----
-title: Testing 3
-layout: post
-categories: ['test, test2, test3, test4']
----
-test 2345
